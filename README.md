@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Survival Predictor</a></h1>
-"Prepare · Predict · Perfect · Present
+Prepare · Predict · Perfect · Present
 <br>
 <h3>A machine-learning model that predicts the survival of the fittest.</h3>
 </div>
